@@ -1,0 +1,14 @@
+setup-opengl/cmake-build-debug/
+setup-opengl/bin/
+setup-opengl/.idea/
+
+test-opengl/cmake-build-debug/
+test-opengl/bin/
+test-opengl/.idea/
+
+test-opengl-C/cmake-build-debug/
+test-opengl-C/bin/
+test-opengl-C/.idea/
+
+testing-bitwise/cmake-build-debug/
+testing-bitwise/.idea/
